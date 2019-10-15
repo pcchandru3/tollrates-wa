@@ -1,0 +1,5 @@
+rate=1.45
+tollstart:04:50
+tollstop:22:00
+lanecount=4
+environment=preprod
